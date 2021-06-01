@@ -1,0 +1,28 @@
+h1 {
+    color: black;
+
+}
+
+h2 {
+    color: green;
+    font-style: italic;
+}
+
+p {
+    font-family: sans-serif;
+}
+
+ul {
+    line-height: 40px;
+}
+
+img {
+    width: 70%;
+}
+
+main {
+    text-align: center;
+    background-color: darkcyan;
+    font-family: sans-serif;
+}
+
